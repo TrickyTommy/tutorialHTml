@@ -1,16 +1,26 @@
-h1{
-    color:brown;
-    font-family:Verdana;
+h1 {
+  color: brown;
+  font-family: Verdana;
 }
 
-p{
-    font-family: Arial;
+p {
+  font-family: Arial;
 }
 
-b{
-    color:blue;
+b {
+  color: blue;
 }
 
-i{
-    background-color:cyan;
+i {
+  background-color: cyan;
+}
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
 }

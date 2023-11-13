@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.formLogin {
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.941);
+  border-radius: 10px;
+}
+h1,
+p {
+  font-weight: lighter;
+  text-align: center;
+}
+#myForm {
+  text-align: center;
+}
+input {
+  text-align: center;
+  border-radius: 30px;
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.941);
+  border: 1px solid aqua;
+  margin-bottom: 10px;
+}
+input:focus {
+  background-color: white;
+  color: rgb(2, 2, 2);
+  border-color: aqua;
+}
+button {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.941);
+  color: white;
+  width: 80px;
+  padding: 5px;
+  border: 1px solid greenyellow;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+}
